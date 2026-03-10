@@ -1,6 +1,6 @@
 - Hello I’m @xreme
 
-[www.oseremeibazebo.dev](www.oseremeibazebo.dev)
+[www.oseremeibazebo.dev](https://www.oseremeibazebo.dev)
 <!--
 
 - 👀 I’m interested in ...
